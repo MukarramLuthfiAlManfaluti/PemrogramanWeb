@@ -1,0 +1,362 @@
+.nyanya-news {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .nyanya-news .overlap-group-wrapper {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1440px;
+    height: 3026px;
+  }
+  
+  .nyanya-news .overlap-group {
+    position: relative;
+    width: 1595px;
+    height: 3026px;
+    left: -46px;
+  }
+  
+  .nyanya-news .rectangle {
+    position: absolute;
+    width: 1486px;
+    height: 3026px;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+  }
+  
+  .nyanya-news .div {
+    position: absolute;
+    width: 1440px;
+    height: 93px;
+    top: 0;
+    left: 46px;
+    background-color: #fffefe;
+  }
+  
+  .nyanya-news .img {
+    position: absolute;
+    width: 599px;
+    height: 468px;
+    top: 1151px;
+    left: 122px;
+  }
+  
+  .nyanya-news .rectangle-2 {
+    position: absolute;
+    width: 599px;
+    height: 468px;
+    top: 1151px;
+    left: 833px;
+  }
+  
+  .nyanya-news .text-wrapper {
+    position: absolute;
+    top: 1032px;
+    left: 594px;
+    font-family: "Helvetica Rounded-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .nyanya-news .text-wrapper-2 {
+    position: absolute;
+    top: 1645px;
+    left: 261px;
+    font-family: "Helvetica Rounded-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .nyanya-news .text-wrapper-3 {
+    position: absolute;
+    top: 2252px;
+    left: 317px;
+    font-family: "Helvetica Rounded-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .nyanya-news .text-wrapper-4 {
+    position: absolute;
+    top: 2259px;
+    left: 961px;
+    font-family: "Helvetica Rounded-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .nyanya-news .text-wrapper-5 {
+    position: absolute;
+    top: 1645px;
+    left: 1039px;
+    font-family: "Helvetica Rounded-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .nyanya-news .whatsapp-image {
+    border-radius: 10px;
+    position: absolute;
+    width: 599px;
+    height: 468px;
+    top: 1151px;
+    left: 122px;
+    object-fit: cover;
+  }
+  
+  .nyanya-news .whatsapp-image-2 {
+    top: 1758px;
+    left: 122px;
+    position: absolute;
+    width: 599px;
+    height: 468px;
+    object-fit: cover;
+  }
+  
+  .nyanya-news .whatsapp-image-3 {
+    top: 1758px;
+    left: 833px;
+    position: absolute;
+    width: 599px;
+    height: 468px;
+    object-fit: cover;
+  }
+  
+  .nyanya-news .whatsapp-image-4 {
+    top: 1151px;
+    left: 833px;
+    position: absolute;
+    width: 599px;
+    height: 468px;
+    object-fit: cover;
+  }
+  
+  .nyanya-news .rectangle-3 {
+    position: absolute;
+    width: 94px;
+    height: 40px;
+    top: 26px;
+    left: 1238px;
+    background-color: #000000;
+    border-radius: 20px;
+  }
+  
+  .nyanya-news .rectangle-4 {
+    position: absolute;
+    width: 94px;
+    height: 40px;
+    top: 26px;
+    left: 1337px;
+    background-color: #d9d9d9;
+    border-radius: 20px;
+  }
+  
+  .nyanya-news .text-wrapper-6 {
+    position: absolute;
+    top: 38px;
+    left: 1264px;
+    font-family: "Helvetica Rounded-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .nyanya-news .text-wrapper-7 {
+    position: absolute;
+    top: 38px;
+    left: 1363px;
+    font-family: "Helvetica Rounded-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .nyanya-news .rectangle-5 {
+    position: absolute;
+    width: 595px;
+    height: 50px;
+    top: 21px;
+    left: 469px;
+    background-color: #d9d9d9;
+    border-radius: 25px;
+  }
+  
+  .nyanya-news .text-wrapper-8 {
+    position: absolute;
+    top: 38px;
+    left: 694px;
+    font-family: "Helvetica Rounded-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .nyanya-news .rectangle-6 {
+    position: absolute;
+    width: 191px;
+    height: 76px;
+    top: 168px;
+    left: 1404px;
+    background-color: #ffffff;
+    border-radius: 38px;
+  }
+  
+  .nyanya-news .chevron-left {
+    position: absolute;
+    width: 24px;
+    height: 28px;
+    top: 191px;
+    left: 1415px;
+  }
+  
+  .nyanya-news .menu {
+    position: absolute;
+    width: 29px;
+    height: 26px;
+    top: 36px;
+    left: 93px;
+  }
+  
+  .nyanya-news .search {
+    position: absolute;
+    width: 34px;
+    height: 33px;
+    top: 27px;
+    left: 484px;
+  }
+  
+  .nyanya-news .moon {
+    position: absolute;
+    width: 41px;
+    height: 41px;
+    top: 185px;
+    left: 1439px;
+  }
+  
+  .nyanya-news .rectangle-7 {
+    position: absolute;
+    width: 1310px;
+    height: 313px;
+    top: 2607px;
+    left: 111px;
+    border-radius: 152px;
+    background: linear-gradient(180deg, rgba(255, 254.19, 254.19, 0.2) 0%, rgba(153, 152.51, 152.51, 0.2) 100%);
+  }
+  
+  .nyanya-news .text-wrapper-9 {
+    position: absolute;
+    top: 2632px;
+    left: 603px;
+    font-family: "Helvetica Rounded-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 60px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .nyanya-news .rectangle-8 {
+    position: absolute;
+    width: 436px;
+    height: 107px;
+    top: 2764px;
+    left: 205px;
+    background-color: #ffffff;
+    border-radius: 53.5px;
+  }
+  
+  .nyanya-news .rectangle-9 {
+    position: absolute;
+    width: 436px;
+    height: 107px;
+    top: 2764px;
+    left: 868px;
+    background-color: #ffffff;
+    border-radius: 53.5px;
+  }
+  
+  .nyanya-news .text-wrapper-10 {
+    position: absolute;
+    top: 2796px;
+    left: 371px;
+    font-family: "Helvetica Rounded-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .nyanya-news .text-wrapper-11 {
+    position: absolute;
+    top: 2796px;
+    left: 919px;
+    font-family: "Helvetica Rounded-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .nyanya-news .mail {
+    position: absolute;
+    width: 67px;
+    height: 63px;
+    top: 2785px;
+    left: 286px;
+  }
+  
+  .nyanya-news .twitter {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 2782px;
+    left: 1193px;
+  }
+  
+  .nyanya-news .nyanya-lingkaran {
+    position: absolute;
+    width: 1232px;
+    height: 1107px;
+    top: 0;
+    left: 217px;
+    object-fit: cover;
+  }
